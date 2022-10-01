@@ -1,0 +1,13 @@
+:sectnums:
+= test
+:toc: auto
+:imagesdir: Diagrams
+:includedir: ref
+:table-caption: Table
+
+
+[source,txt]
+----
+include::ref\test.asc[]
+----
+
