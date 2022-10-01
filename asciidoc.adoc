@@ -8,6 +8,6 @@
 
 [source,txt]
 ----
-include::ref\test.asc[]
+include::ref\test.txt[]
 ----
 
