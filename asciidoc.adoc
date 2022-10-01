@@ -5,9 +5,6 @@
 :includedir: ref
 :table-caption: Table
 
+include::ref\inludefile.txt[]
 
-[source,txt]
-----
-include::ref\test.txt[]
-----
 
