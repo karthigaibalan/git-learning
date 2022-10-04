@@ -6,7 +6,7 @@
 :table-caption: Table
 
 
-== link:asciidoc.asc
+== link:asciidoc.asc[]
 include::ref\inludefile.txt[]
 
 
